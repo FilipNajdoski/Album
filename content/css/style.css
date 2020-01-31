@@ -1,0 +1,13 @@
+.custom-container{
+    max-width: 90% !important;
+}
+.row-footer{
+    padding: 3em;
+    background-color: yellowgreen;
+    color: black;
+}
+.row-header{
+    padding: 3em;
+    background-color: olive;
+    color: white;
+}
